@@ -1,0 +1,33 @@
+Body {  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color: lightblue;
+  ;  
+
+}  
+button {   
+       background: gray;   
+       width: 100%;  
+        color: solid white;   
+        padding: 15px;   
+        margin: 10px 0px;   
+        border: solid black;   
+        cursor: pointer;   
+         }   
+ form {   
+        border: 5px solid #f1f1f1;   
+    }   
+  
+ button:hover {   
+        opacity: 0.2;   
+    }   
+     
+ .container {
+        opacity: 0.75;
+        padding: 30px; 
+        margin: 0;
+        background-image: url("bg2.png");  
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+      
+
